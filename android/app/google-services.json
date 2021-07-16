@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752173389786",
+    "project_id": "pionnapp",
+    "storage_bucket": "pionnapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752173389786:android:d6f596192394138e4a12e3",
+        "android_client_info": {
+          "package_name": "com.pionn.pionnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752173389786-09qsr80ioih62njs1lrd8k73hlvssab4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZtuUyb7Mbsv12bJx7lUMdZGYQr66i_nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752173389786-09qsr80ioih62njs1lrd8k73hlvssab4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
